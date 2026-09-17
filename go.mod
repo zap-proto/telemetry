@@ -4,7 +4,7 @@
 // wiring should be too.
 module github.com/zap-proto/telemetry
 
-go 1.26.4
+go 1.27.1
 
 require (
 	github.com/luxfi/log v1.6.0
